@@ -1,0 +1,12 @@
+{
+  "name": "codepening",
+  "version": "0.0.1",
+  "main": "index.mjs",
+  "module": "index.mjs",
+  "license": "MIT",
+  "dependencies": {
+    "@std/esm": "^0.18.0",
+    "node-fetch": "^1.7.3",
+    "puppeteer": "^0.13.0"
+  }
+}
